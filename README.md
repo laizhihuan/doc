@@ -2,3 +2,5 @@
 
 ----
 
+* first create rep
+* commit by git
